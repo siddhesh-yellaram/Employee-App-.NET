@@ -1,0 +1,7 @@
+D:\test\.NET\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+D:\test\.NET\EmployeeApp\bin\Debug\EmployeeApp.exe
+D:\test\.NET\EmployeeApp\bin\Debug\EmployeeApp.pdb
+D:\test\.NET\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+D:\test\.NET\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\EmployeeApp\obj\Debug\EmployeeApp.exe
+D:\test\.NET\EmployeeApp\obj\Debug\EmployeeApp.pdb
